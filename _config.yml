@@ -17,27 +17,27 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 4
   exclude:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      - static
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: eddie-pease-a5482130/
   # mastodon: your_username
-  # medium: your_username
+  medium: eddiepease1
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
