@@ -46,13 +46,25 @@ social_media:
   # website: http://your_website_url
   # youtube: your_username
 
+blogs:
+  - name: Chess Ultralearning
+    description: Best way to learn chess in under 100 hours
+    web_url: https://medium.com/@eddiepease1/chess-ultralearning-best-way-to-learn-chess-in-under-100-hours-bf58abce6569
+    image_url: _images/chess.jpg
+
+  - name: Introducing Company2Vec
+    description: Helping company analysis with machine learning
+    web_url: https://towardsdatascience.com/introducing-company2vec-helping-company-analysis-with-machine-learning-c6790d7a6bf5
+    image_url: _images/chess.jpg
+
+
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Chess
+    web_url: https://www.chess.com/member/eddiepease
+    image_url: _images/chess.jpg
 
-  - name: Web design
+  - name: Meditation
+    image_url: _images/meditation.jpg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Investing
+    image_url: _images/investing.jpg
