@@ -50,21 +50,21 @@ blogs:
   - name: Chess Ultralearning
     description: Best way to learn chess in under 100 hours
     web_url: https://medium.com/@eddiepease1/chess-ultralearning-best-way-to-learn-chess-in-under-100-hours-bf58abce6569
-    image_url: _images/chess.jpg
+    image_url: images/chess.jpg
 
   - name: Introducing Company2Vec
     description: Helping company analysis with machine learning
     web_url: https://towardsdatascience.com/introducing-company2vec-helping-company-analysis-with-machine-learning-c6790d7a6bf5
-    image_url: _images/chess.jpg
+    image_url: images/chess.jpg
 
 
 topics:
   - name: Chess
     web_url: https://www.chess.com/member/eddiepease
-    image_url: _images/chess.jpg
+    image_url: images/chess.jpg
 
   - name: Meditation
-    image_url: _images/meditation.jpg
+    image_url: images/meditation.jpg
 
   - name: Investing
-    image_url: _images/investing.jpg
+    image_url: images/investing.jpg
