@@ -55,7 +55,7 @@ blogs:
   - name: Introducing Company2Vec
     description: Helping company analysis with machine learning
     web_url: https://towardsdatascience.com/introducing-company2vec-helping-company-analysis-with-machine-learning-c6790d7a6bf5
-    image_url: images/chess.jpg
+    image_url: images/vector.png
 
 
 topics:
