@@ -57,6 +57,11 @@ blogs:
     web_url: https://towardsdatascience.com/introducing-company2vec-helping-company-analysis-with-machine-learning-c6790d7a6bf5
     image_url: images/vector.png
 
+  - name: When shouldn't you use machine learning to make predictions?
+    description: Machine Learning in a world of Radical Uncertainty
+    web_url: https://towardsdatascience.com/when-shouldnt-you-use-machine-learning-to-make-predictions-61d25000ad88
+    image_url: images/ml.jpg
+
 
 topics:
   - name: Chess
