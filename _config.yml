@@ -47,10 +47,10 @@ social_media:
   # youtube: your_username
 
 blogs:
-  - name: Chess Ultralearning
-    description: Best way to learn chess in under 100 hours
-    web_url: https://medium.com/@eddiepease1/chess-ultralearning-best-way-to-learn-chess-in-under-100-hours-bf58abce6569
-    image_url: images/chess.jpg
+  - name: Three Crucial Lessons for Launching an AI Startup
+    description: Because AI startups require subtly different strategies than Software-as-a-Service (SaaS) startups
+    web_url: https://medium.com/swlh/three-crucial-lessons-for-launching-an-ai-startup-976d1d44f370
+    image_url: images/startup.jpg
 
   - name: Introducing Company2Vec
     description: Helping company analysis with machine learning
@@ -61,6 +61,21 @@ blogs:
     description: Machine Learning in a world of Radical Uncertainty
     web_url: https://towardsdatascience.com/when-shouldnt-you-use-machine-learning-to-make-predictions-61d25000ad88
     image_url: images/ml.jpg
+
+  - name: Chess Ultralearning
+    description: Best way to learn chess in under 100 hours
+    web_url: https://medium.com/@eddiepease1/chess-ultralearning-best-way-to-learn-chess-in-under-100-hours-bf58abce6569
+    image_url: images/chess.jpg
+
+  - name: How Meditation Works in Your Brain
+    description: The connection between attention, awareness, and emotion
+    web_url: https://elemental.medium.com/how-meditation-works-in-your-brain-86cadaff41eb
+    image_url: images/meditation.jpg
+
+  - name: How to speed up local machine learning model development
+    description: Introducing an robust machine learning template
+    web_url: https://towardsdatascience.com/how-to-speed-up-local-machine-learning-model-development-33df177893ec
+    image_url: images/ml_2.png
 
 
 topics:
