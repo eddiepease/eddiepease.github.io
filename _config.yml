@@ -67,6 +67,11 @@ blogs:
     web_url: https://medium.com/@eddiepease1/chess-ultralearning-best-way-to-learn-chess-in-under-100-hours-bf58abce6569
     image_url: images/chess.jpg
 
+  - name: Why everyone should take Bitcoin seriously
+    description: It is just too big an idea to ignore
+    web_url: https://medium.com/datadriveninvestor/why-everyone-should-take-bitcoin-seriously-e11ec2bb86da
+    image_url: images/bitcoin.jpg
+
   - name: How Meditation Works in Your Brain
     description: The connection between attention, awareness, and emotion
     web_url: https://elemental.medium.com/how-meditation-works-in-your-brain-86cadaff41eb
@@ -85,6 +90,9 @@ topics:
 
   - name: Meditation
     image_url: images/meditation.jpg
+
+  - name: Bitcoin
+    image_url: images/bitcoin.jpg
 
   - name: Investing
     image_url: images/investing.jpg
